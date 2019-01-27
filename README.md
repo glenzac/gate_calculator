@@ -1,10 +1,11 @@
-# gate_calculator
-Gate Calculator for Windows (.exe)
+
+
+# Gate Calculator for Windows (.exe) #
+
 There are plenty of Online GATE calculators out there, but I didn't wanna fire up my browser every time I needed to calculate something. So I decided to make this small executable file for windows. It is based on the same calculator available online and also looks the same and has the same features and limitations too. Click to run. No install required.
 
-Download: Gate Calculator.exe
 
-Calculator Instructions
+# Calculator Instructions #
 Allows you to perform basic and complex mathematical operations such as:
 
     modulus
